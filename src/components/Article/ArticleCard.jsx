@@ -50,7 +50,7 @@ setIsDropDown(true)
                   Report
                 </p>
                 <p className="text-md font-medium hover:bg-gray-200 hover:rounded hover:pl-1 delay-400 transition-all text-black mb-1 ml-3">
-                  Edit
+                  More options
                 </p>
               </div>
             )}
